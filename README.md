@@ -3,6 +3,9 @@
 - 누구나 멘토가 될 수 있지 않을까?
 - 많은 사람들과 의견을 공유하고 첨삭의 부담을 덜어보자!
 
+<br>
+<br>
+
 ![](https://images.velog.io/images/banjjoknim/post/4f660e46-5272-4ee2-8879-7fb6469ee861/image.png)
 
 <br>
