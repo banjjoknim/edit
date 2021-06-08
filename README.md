@@ -22,7 +22,8 @@
 <br>
 
 ## 1. 사용 기술 및 라이브러리, 서버 환경
-- Java, Spring Boot, Swagger
+- Java
+- Spring Boot, Swagger
 - JPA, Spring Data JPA, Hibernate
 - AWS EC2, RDS, S3, ElastiCache(Redis), SES(Simple Email Service)
 - Ubuntu, NGINX
